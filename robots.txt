@@ -3,7 +3,7 @@ User-agent: *
 Disallow: /privacy-policy/*
 
 # Host
-Host: http://new-unblocked-games.github.io/
+Host: https://new-unblocked-games.github.io/
 
 # Sitemaps
-Sitemap: http://new-unblocked-games.github.io/sitemap.xml
+Sitemap: https://new-unblocked-games.github.io/sitemap.xml
