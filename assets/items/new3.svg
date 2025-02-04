@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="105" height="105" viewBox="0 0 105 105">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_2" data-name="Rectangle 2" width="105" height="105" fill="#fff"/>
+    </clipPath>
+    <linearGradient id="linear-gradient" x1="0.916" y1="0.504" x2="0.109" y2="0.538" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#d4002b"/>
+      <stop offset="0.308" stop-color="#ff204d"/>
+      <stop offset="0.784" stop-color="#ff0638"/>
+      <stop offset="1" stop-color="#b90026"/>
+    </linearGradient>
+    <filter id="Path_1" x="-30.852" y="-32.025" width="137.578" height="137.578" filterUnits="userSpaceOnUse">
+      <feOffset dx="1" dy="1" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="0.5" result="blur"/>
+      <feFlood flood-opacity="0.341"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Path_16" x="11.076" y="10.388" width="53.596" height="53.596" filterUnits="userSpaceOnUse">
+      <feOffset dx="1" dy="1" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="0.5" result="blur-2"/>
+      <feFlood flood-opacity="0.259"/>
+      <feComposite operator="in" in2="blur-2"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="Group_23" data-name="Group 23" transform="translate(0.096 0.096)">
+    <g id="Mask_Group_3" data-name="Mask Group 3" transform="translate(-0.096 -0.096)" clip-path="url(#clip-path)">
+      <rect id="Rectangle_21" data-name="Rectangle 21" width="39.9" height="7.35" transform="translate(60.133)" fill="#c80028"/>
+      <path id="Path_15" data-name="Path 15" d="M0,7.572H52.371V0H0Z" transform="translate(7.572 47.957) rotate(90)" fill="#c80028"/>
+      <g transform="matrix(1, 0, 0, 1, 0, 0)" filter="url(#Path_1)">
+        <path id="Path_1-2" data-name="Path 1" d="M37.643-.918l76.16.307L150.93,37.42-.916,37.558Z" transform="translate(-29.06 75.85) rotate(-45)" fill="url(#linear-gradient)"/>
+      </g>
+    </g>
+    <g transform="matrix(1, 0, 0, 1, -0.1, -0.1)" filter="url(#Path_16)">
+      <path id="Path_16-2" data-name="Path 16" d="M16.307,0H11.8l-6-9.062V0H1.288V-16.215H5.8l6,9.177v-9.177h4.508Zm8.234-12.6v2.645h5.175v3.427H24.541v2.921h5.865V0H20.033V-16.215H30.406V-12.6Zm32.085-3.611L52.647,0H47.1L44.873-9.936,42.6,0H37.053L33.12-16.215H38L39.882-5.129l2.553-11.086H47.38L49.864-5.221,51.75-16.215Z" transform="translate(22.13 62.39) rotate(-45)" fill="#fff"/>
+    </g>
+  </g>
+</svg>

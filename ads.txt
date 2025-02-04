@@ -1,5 +1,4 @@
 ############ Our Ad Code Start #################
-#cutedressup
 google.com, pub-8940193139226175, DIRECT, f08c47fec0942fa0
 google.com, pub-2622226100196993, DIRECT, f08c47fec0942fa0
 
