@@ -1,6 +1,6 @@
 # *
 User-agent: *
-Disallow: /privacy-policy/*
+Disallow: 
 
 # Host
 Host: https://new-unblocked-games.github.io/
