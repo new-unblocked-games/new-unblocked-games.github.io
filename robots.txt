@@ -1,8 +1,3 @@
 User-agent: *
-Disallow: /privacy-policy/*
-
-# Host
-Host: https://new-unblocked-games.github.io/
-
-# Sitemaps
-Sitemap: https://new-unblocked-games.github.io/sitemap.xml
+Disallow:
+Sitemap: https://fredrikaverpil.github.io/sitemap.xml
